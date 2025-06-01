@@ -30,7 +30,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'], $_POST['senh
   <body>
     <header>
       <img class="logo" src="assets/logo.svg" alt="" srcset="" />
-      <a class="button-wrap button-default" href="./logout.php">Página Inicial</a>
+      <a class="button-wrap button-default" href="./index.php">Página Inicial</a>
     </header>
 
     <main>
