@@ -1,3 +1,7 @@
+# pet-adoption-php-mini-project
+
+Projeto didático para ensinar minha irmã em uma atividade de ADS
+
 # Instruções para rodar o projeto no XAMPP
 
 1. **Inicie o XAMPP**
