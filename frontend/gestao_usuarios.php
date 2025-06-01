@@ -51,7 +51,7 @@ if (isset($_GET['delete'])) {
       >
         <div class="input-section-overlay">
           <span class="cadastro-title">Cadastro de Usuários</span>
-          <input type="submit" class="button-wrap" value="Cadastrar" />
+          <input type="submit" class="button-wrap button-confirm" value="Cadastrar" />
         </div>
         <div class="input-section-overlay">
           <div class="input-section">
